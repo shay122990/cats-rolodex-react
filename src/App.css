@@ -1,0 +1,18 @@
+.App {
+  text-align: center;
+}
+
+h1 {
+  font-family: "ZCOOL KuaiLe", sans-serif;
+  font-size: 72px;
+  color: #fff;
+  text-decoration: #fbda61 underline;
+}
+
+h2 {
+  font-family: "ZCOOL KuaiLe";
+  color: #fbda61;
+}
+h3 {
+  color: #fbda61;
+}

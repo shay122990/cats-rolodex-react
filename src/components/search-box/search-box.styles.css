@@ -1,0 +1,12 @@
+.search {
+  -webkit-appearance: none;
+  border: solid 1px rgb(226, 43, 119);
+  background-color: #fbda61;
+  font-family: "ZCOOL KuaiLe";
+  border-radius: 5px;
+  outline: none;
+  padding: 10px;
+  width: 250px;
+  line-height: 30px;
+  margin-bottom: 30px;
+}
